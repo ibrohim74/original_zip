@@ -1,0 +1,16 @@
+/*
+Theme Name: theme
+*/
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+body {
+    background: radial-gradient(circle at top left, #3e004f, #130b15 20%, #0a0010 90%),
+    radial-gradient(circle at bottom right, #3e004f, #130b15 20%, #0a0010 90%);
+    background-blend-mode: screen;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: "Unbounded", sans-serif;
+}
+a{
+    text-decoration: none;
+}
